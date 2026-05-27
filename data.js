@@ -50,7 +50,7 @@ window.HUB_DATA = {
     "1ere/sciences/exos": [
       {
         nom:"TP Pression et force pressante — PDF",
-        url:"pdf/0CDSc1BacProCh10PressionTPPhETLITE26-05-20V2.pdf"
+        url:"0CDSc1BacProCh10PressionTPPhETLITE26-05-20V2.pdf"
       }
     ]
   },
